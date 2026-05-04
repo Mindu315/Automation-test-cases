@@ -1,2 +1,1 @@
-Paste your public GitHub repository link here before submitting.
-Example: https://github.com/yourusername/IT3040-Assignment-1
+https://github.com/Mindu315/Automation-test-cases
