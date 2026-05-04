@@ -1,1 +1,10 @@
-.venv
+.DS_Store
+__pycache__/
+*.pyc
+
+.venv/
+.pytest_cache/
+
+# Playwright artifacts (keep tests deterministic + repo small)
+playwright-report/
+test-results/
